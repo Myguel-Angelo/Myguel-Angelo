@@ -2,7 +2,7 @@
 
 ### 
 
-<p align="left">🏫 Sou um estudante de 17 anos, atualmente cursando Técnico em Automação Industrial⚙️ no Instituto Federal do Maranhão - IFMA<br><br>💻 Nos últimos 6 meses, venho me dedicando ao estudo da programação, adquirindo conhecimento em diversas linguagens, incluindo Python, C, C++, e frameworks como Django para desenvolvimento web.</p>
+<p align="left">🏫 Sou um estudante de 18 anos, atualmente cursando Técnico em Automação Industrial⚙️ no Instituto Federal do Maranhão - IFMA<br><br>💻 Nos últimos 7 meses, venho me dedicando ao estudo da programação, adquirindo conhecimento em diversas linguagens, incluindo Python, C, C++, e frameworks como Django para desenvolvimento web.</p>
 
 ### 
 
