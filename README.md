@@ -35,9 +35,9 @@
 
 ###
 
-<img align="left" height="300" src="https://github.com/Myguel-Angelo/Myguel-Angelo/blob/main/student.jpg"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Myguel-Angelo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="113" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Myguel-Angelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 
+###
 
 ### 
 
