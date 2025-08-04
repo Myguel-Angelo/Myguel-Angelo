@@ -2,7 +2,7 @@
 
 ### 
 
-<p align="left">🏫 Sou um estudante de 18 anos, Técnico em Automação Industrial⚙️ no Instituto Federal do Maranhão - IFMA<br><br>💻 Nos últimos meses, venho me dedicando ao estudo da programação, adquirindo conhecimento em diversas linguagens</p>
+<p align="left">🏫 Sou um estudante de 18 anos, Técnico em Automação Industrial ⚙️ e Graduando em Ciência da Computação 💻<br> Sou dedicado e Desenvolvimento de Software como Programador FullStack,  </p>
 
 ### 
 
